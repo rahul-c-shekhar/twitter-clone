@@ -6,6 +6,7 @@ export default function Home() {
     <div className=''>
       <Head>
         <title>Twitter Clone</title>
+        <link rel='icon' href='/twitter.svg' />
       </Head>
 
       <main className='bg-black min-h-screen flex max-w-[1500px] mx-auto'>
